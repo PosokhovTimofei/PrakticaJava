@@ -2,7 +2,7 @@ package src.Project10;
 
 import java.util.Scanner;
 
-public class TimeToDo {
+public class Task {
     public static void main(String[] args) {
         int choice;
 
